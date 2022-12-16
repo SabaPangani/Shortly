@@ -97,7 +97,7 @@ nav{
             align-items: center;
             margin-left: 40px;
             a{
-                font-weight: bold;
+                font-weight: 700;
                 color:var(--Grayish-Violet);
                 cursor: pointer;
                 &:hover{
@@ -114,7 +114,7 @@ nav{
                 margin-right: 35px;
             }
             button{
-                font-weight: bold;
+                font-weight: 700;
                 font-weight: 1.2rem;
             }
             .sign-up{
@@ -165,7 +165,6 @@ nav{
                 h1{
                     font-size: 4.3rem;
                     font-weight: 700;
-                    font-weight: bolder;
                     color: var(--Very-Dark-Blue);
                     line-height: 80px;
                 }
@@ -310,7 +309,7 @@ main{
                         color: white;
                         font-size: .9rem;
                         border-radius: 7px;
-                        font-weight: bold;
+                        font-weight: 700;
                     }
                 }
             }
@@ -535,7 +534,7 @@ footer{
             margin-right: 35px;
         }
         button{
-            font-weight: bold;
+            font-weight: 700;
             font-weight: 1.2rem;
         }
         .login{
