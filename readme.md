@@ -1,7 +1,8 @@
-![Screenshot_2](https://user-images.githubusercontent.com/77338263/208168012-985bf3f1-1b9c-454a-88d3-50a02585670e.png)
+![Screenshot_2](https://user-images.githubusercontent.com/77338263/208168191-05760bc0-9505-4cb4-a67f-532cf780794e.png)
 
 
-<h1 align="center">Sunnyside Agency Landing Page</h1>
+
+<h1 align="center">URL shortening API landing page</h1>
 
 <div align="center">
   <h3>
@@ -9,7 +10,7 @@
       Live
     </a>
    <span> | </span>
-    <a href="https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef">
+    <a href="https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G">
       Challenge
     </a>
   </h3>
@@ -22,15 +23,18 @@
 <br>
 
 ## About The Project
-This challenge will be a perfect test of your layout and responsive skills. There's a tiny bit of JS for the mobile menu, but the focus is HTML & CSS.
-The challenge is to build out this landing page and get it looking as close to the design as possible.
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Your challenge is to integrate with the shrtcode API to create shortened URLs and display them like in the designs.
+
+You can use any JavaScript framework/library on the front-end such as React or Vue. You also have complete control over which packages you use to do things like make HTTP requests or style your project.
 
 <br><br>Users should be able to:
-<br>1. View the optimal layout depending on their device's screen size.
-2. See hover states for all interactive elements on the page.
-<br>
-
+- ew the optimal layout for the site depending on their device's screen size
+- orten any valid URL
+- see a list of their shortened links, even after refreshing the browser
+- Copy the shortened link to their clipboard in a single click
+- Receive an error message when the form is submitted if:
+- The input field is empty
+- 
 <br> <p>I do not have access to the Figma sketch so the design is not pixel perfect.</p>
 
 
