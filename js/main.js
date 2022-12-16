@@ -56,6 +56,6 @@ $(document).ready(function () {
     })
 });
 
-$(".me").click(function(){
-    $(this).addClass("hidden");
+$(".bi-x-lg").click(function(){
+    $(".me").addClass("hidden");
 })
