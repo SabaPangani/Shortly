@@ -14,7 +14,7 @@
     box-sizing: border-box;
     list-style: none;
     text-decoration: none;
-    font-family: 'popRegular', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 button{
     cursor: pointer;
@@ -164,7 +164,7 @@ nav{
             .textBox{
                 h1{
                     font-size: 4.3rem;
-                    font-family: pop-bold;
+                    font-weight: 700;
                     font-weight: bolder;
                     color: var(--Very-Dark-Blue);
                     line-height: 80px;
@@ -175,7 +175,7 @@ nav{
                 }
                 button{
                     margin-top: 30px;
-                    font-family: pop-Medium;
+                    font-weight: 500;
                     color: white;
                     padding: .68rem 1.7rem;
                     background-color: var(--Cyan);
@@ -254,7 +254,7 @@ main{
                     height: 50px;
                     padding: 0 1.9rem;
                     color: white;
-                    font-family: pop-Medium;
+                    font-weight: 500;
                     font-size: 1.03rem;
                     cursor: pointer;
                 }
@@ -295,7 +295,7 @@ main{
                     align-items: center;
                     padding: 0 30px;
                     border-radius: 6px;
-                    font-family: pop-medium, sans-serif;
+                    font-weight: 500;
                     .original-link{
                         color: black;
                     }
@@ -333,11 +333,11 @@ main{
                 .header{
                     margin-top: 30px;
                     text-align: center;
-                    font-family: pop-medium,sans-serif;
+                    font-weight: 500;
                     h1{
                         font-size: 1.9rem;
                         color: var(--Very-Dark-Blue);
-                        font-family: pop-bold;
+                        font-weight: 700;
                     }
                     p{
                         margin-top: 10px;
@@ -382,12 +382,12 @@ main{
                         position: relative;
                         bottom: 10px;
                         span{
-                            font-family: pop-bold,sans-serif;
+                            font-weight: 700;
                             color: var(--Very-Dark-Blue);
                         }
                         p{
                             margin-top: 15px;
-                            font-family: pop-medium,sans-serif;
+                            font-weight: 500;
                             color: var(--Grayish-Violet);
                             font-size: .8rem;
                         }
@@ -423,11 +423,11 @@ main{
             text-align: center;
             h1{
                 color: white;
-                font-family: pop-bold,sans-serif;
+                font-weight: 700;
                 font-size: 2rem;
             }
             button{
-                font-family: pop-Medium;
+                font-weight: 500;
                 color: white;
                 padding: .55rem 1.6rem;
                 background-color: var(--Cyan);
@@ -461,7 +461,7 @@ footer{
                     font-size: .8rem;
                     .header{
                         color: white;
-                        font-family: pop-bold,sans-serif;
+                        font-weight: 700;
                     }
                     
                     .descs{
