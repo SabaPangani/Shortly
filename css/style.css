@@ -10,15 +10,15 @@
 
 @font-face {
   font-family: popRegular;
-  src: url(/fonts/Poppins-Regular.ttf);
+  src: url(fonts/Poppins-Regular.ttf);
 }
 @font-face {
   font-family: pop-bold;
-  src: url(/fonts/Poppins-bold.ttf);
+  src: url(fonts/Poppins-bold.ttf);
 }
 @font-face {
   font-family: pop-Medium;
-  src: url(/fonts/Poppins-Medium.ttf);
+  src: url(fonts/Poppins-Medium.ttf);
 }
 * {
   margin: 0;
@@ -212,7 +212,7 @@ main .url-input {
 main .url-input .container {
   position: relative;
   bottom: 65px;
-  background-image: url(/url-shortening-api-master/images/bg-shorten-desktop.svg);
+  background-image: url(url-shortening-api-master/images/bg-shorten-desktop.svg);
   background-color: var(--Dark-Violet);
   background-repeat: no-repeat;
   background-size: cover;
@@ -396,7 +396,7 @@ main .statistics .container .row .cards .card-3 {
 .boost {
   width: 100%;
   background-color: var(--Dark-Violet);
-  background-image: url(/url-shortening-api-master/images/bg-boost-desktop.svg);
+  background-image: url(url-shortening-api-master/images/bg-boost-desktop.svg);
   background-size: cover;
   background-position: center;
   padding: 4rem 0;
