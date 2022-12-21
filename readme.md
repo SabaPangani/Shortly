@@ -44,6 +44,7 @@ You can use any JavaScript framework/library on the front-end such as React or V
 
 - Semantic HTML5 markup
 - CSS custom properties
+- SASS/SCSS
 - Flex
 - JavaScript
 
